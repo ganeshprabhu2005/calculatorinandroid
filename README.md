@@ -1,11 +1,12 @@
-Ex.No:5 Develop a simple calculator using android studio.
-AIM:
+## Ex.No:5 Develop a simple calculator using android studio.
+## AIM:
 To develop a program to develop a simple calculator in Android Studio.
 
-EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 Android Studio(Min.required Artic Fox)
 
-ALGORITHM:
+## ALGORITHM:
+
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as calculator and click Next.
@@ -20,10 +21,15 @@ Step 6: Display the calculator operation in MainActivity file.
 
 Step 7: Save and run the application.
 
-PROGRAM:
-/* Program to print the text “calculator operation”. Developed by: GANESH PRABHU J Registeration Number : 212223220023 */
+## PROGRAM:
+/*
+Program to print the text “calculator operation”.
+Developed by: GANESH PRABHU J
+Registeration Number : 212223220023
+*/
 
-MainActivity.java:
+## MainActivity.java:
+```
 package com.example.calculatorapp;
 
 import android.os.Bundle;
@@ -147,7 +153,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-activity_main.xml:
+```
+## activity_main.xml:
+```
 package com.example.calculatorapp;
 
 import android.os.Bundle;
@@ -271,11 +279,11 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-OUTPUT:
+```
+## OUTPUT:
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/3b772cc9-d759-401c-bf2e-39e25eb5e584" />
 
 
-<img width="1919" height="1006" alt="640806087-3b772cc9-d759-401c-bf2e-39e25eb5e584" src="https://github.com/user-attachments/assets/e529f45c-0c33-4e30-874e-bf9238442c61" />
-
-RESULT:
+## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
-
